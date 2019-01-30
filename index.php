@@ -11,7 +11,7 @@
     <input TYPE="submit" name="upload" value="Submit"/>
 </form>
 <form>
- <strong>Click on button to view users</strong></p>
+ <strong>Click the above button to view file details</strong></p>
 
 </div>
 </form>
